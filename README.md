@@ -16,11 +16,11 @@ I am a professional with over 3 years of experience in software development, con
   <table>
     <tr>
       <td>
-        <a href="https://jonathan99-ai.github.io/Batata-bit/">
-          <img src="https://drive.google.com/uc?export=view&id=1QXMQBEvBtZn1-1bz2Sjo6lv-Fz17gY4i" alt="Batata-bit" style="margin-bottom: 20px;" />
+        <a href="https://google-translator-clone.fly.dev/">
+          <img src="https://drive.google.com/uc?export=view&id=1US2LdQSXDkaoCVS62bDs7GpKaIFD00lo" alt="Batata-bit" style="margin-bottom: 20px;" />
         </a>
-        <a href="https://jonathan99-ai.github.io/Batata-bit/">
-          <p><b>Landing page Batata Bit</p>
+        <a href="https://google-translator-clone.fly.dev/">
+          <p><b>Google Translator Clone</p>
         </a>
       </td>
       <td width="50"></td> <!-- Adjust the width for spacing -->
@@ -31,11 +31,39 @@ I am a professional with over 3 years of experience in software development, con
         <a href="https://reactshoppingcartdemo.netlify.app/">
           <p><b>Shopping cart</p>
         </a>
+      </td>
+      <td width="50"></td> <!-- Adjust the width for spacing -->
+      <td>
+        <a href="https://jonathan99-ai.github.io/Web-Pocion-Duciel/">
+          <img src="https://drive.google.com/uc?export=view&id=1QTnwPXVlbsI_RthJzfhFyzWn4NMfQihA" alt="react-shopping-cart" />
+        </a>
+        <a href="https://jonathan99-ai.github.io/Web-Pocion-Duciel/">
+          <p><b>Pocion Duciel landing page</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://jonathan99-ai.github.io/Batata-bit/">
+          <img src="https://drive.google.com/uc?export=view&id=1QXMQBEvBtZn1-1bz2Sjo6lv-Fz17gY4i" alt="Batata-bit" style="margin-bottom: 20px;" />
+        </a>
+        <a href="https://jonathan99-ai.github.io/Batata-bit/">
+          <p><b>Landing page Batata Bit</p>
+        </a>
+      </td>
+      <td width="50"></td> <!-- Adjust the width for spacing -->
+      <td>
+        <a href="https://mern-shop-demo.onrender.com">
+          <img src="https://drive.google.com/uc?export=view&id=1rZj6aBI0is31GTpsJbD8fxcYaK2co6xl" alt="Shopping inventory" />
+        </a>
+        <a href="https://mern-shop-demo.onrender.com">
+          <p><b>Shopping inventory</p>
+        </a>
       </td>    
       <td width="50"></td> <!-- Adjust the width for spacing -->
       <td>
         <a href="https://jonathan99-ai.github.io/Arkanoid-Javascript/">
-          <img src="https://drive.google.com/uc?export=view&id=1fk0BsSMKgAyazBiXHmGBtlVlwRliVE_A" alt="react-shopping-cart" />
+          <img src="https://drive.google.com/uc?export=view&id=1fk0BsSMKgAyazBiXHmGBtlVlwRliVE_A" alt="Arkanoid Game" />
         </a>
         <a href="https://jonathan99-ai.github.io/Arkanoid-Javascript/">
           <p><b>Arkanoid Game</p>
